@@ -8,9 +8,11 @@ User input handling
 Hint system (Higher/Lower)
 Attempt counter
 Beginner-friendly Python project
+
 🛠️ Technologies Used
 Python
 Random Module
+
 💻 Code
 import random
 
@@ -36,6 +38,7 @@ git clone https://github.com/your-username/guess-the-number.git
 cd guess-the-number
 3️⃣ Run the Program
 python guess.py
+
 🎮 Example Output
 Guess the Number: 50
 Lower number please
@@ -45,12 +48,13 @@ Greater number Please
 
 Guess the Number: 37
 You have guessed the number correctly in 3 attempt
+
 📂 Project Structure
 guess-the-number/
 │── guess.py
 │── README.md
-📖 Learning Outcomes
 
+📖 Learning Outcomes
 This project helps beginners understand:
 
 While loops
@@ -58,6 +62,6 @@ Conditional statements
 User input handling
 Random number generation
 Basic game logic in Python
-🤝 Contributing
 
+🤝 Contributing
 Contributions are welcome! Feel free to fork this repository and improve the project.
